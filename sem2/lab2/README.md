@@ -10,7 +10,7 @@
 
 ###### Загрузка данных
 
-!!!1
+![1](https://user-images.githubusercontent.com/114734035/230467335-da78702d-2684-46c8-b08a-b409ebec0cde.jpg)
 
 ######  Описание полей:
 
@@ -52,9 +52,9 @@
 
 #### Группировка
 
-!!!2
+![2](https://user-images.githubusercontent.com/114734035/230467373-dac5bdbb-0315-4994-84a7-ab23839f3585.jpg)
 
-!!!3
+![3](https://user-images.githubusercontent.com/114734035/230467395-6c1ffcd0-1127-49b0-afdc-36313ec1f261.jpg)
 
 ### Формирование новых факторов
 
@@ -69,11 +69,11 @@
 
 За целевую переменную берём *is_abnd*
 
-!!!4
+![4](https://user-images.githubusercontent.com/114734035/230467429-c98e98db-b25e-446a-a59f-3dad34c24a20.jpg)
 
 #### Оценка важности факторов на основе метода "Дерево решений" 
 
-!!!5
+![5](https://user-images.githubusercontent.com/114734035/230467480-d59614a8-5260-4116-bced-5c2f47129f47.jpg)
 
 #### Построение модели логистической регрессии
 
